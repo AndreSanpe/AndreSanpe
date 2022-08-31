@@ -34,9 +34,11 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresanpe">
 </p>
+
+ #  🙃 More about me!
 <p style="text-align:center;">
- ##  🙃 More about me!
-  I am a father, husband, runner and passionate about technology.
+
+I am a father, husband, runner and passionate about technology.
 
 I was Founding Partner and Executive Director of Plan4r Engenharia for over 7 years. We work with Geotechnology solutions in the area of aerial mapping using Unmanned Aerial Vehicles (UAV). Award recognized with the project “Volume Calculation with the Use of Drones in Bauxite Mining” at the MundoGEO#Connect Latin America 2016 event. More than 10 years of experience in conventional topography. Co-founder of the Mining Games Brasil team, responsible for taking students from the Federal University of Alfenas, Poços de Caldas campus, to three competitions abroad: United States (2014 and 2016) and Australia (2015).
 
