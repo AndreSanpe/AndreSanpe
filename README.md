@@ -10,7 +10,7 @@
 
 ## 💻 Skills
 <p>
-  I'm Mining engineer 
+  I'm Mining Engineer and Front-end Developer  
 </p>
 
 ## 👥 Connect With Me
