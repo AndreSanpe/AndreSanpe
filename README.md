@@ -25,7 +25,7 @@ During this period of learning, I had the opportunity to learn and apply several
 
 ## 👥 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/andresantospereira/">
+  <a target="_blank" href="https://www.linkedin.com/in/andresantospereira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
