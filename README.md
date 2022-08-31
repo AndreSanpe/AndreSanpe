@@ -1,12 +1,13 @@
 <img width="100%" src="https://user-images.githubusercontent.com/59103410/187698790-65cc6ba9-1231-4fd3-9a17-6aec72e26cdf.png" alt="my banner">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresanpe&show_icons=true&theme=radical)
 
-## 💫 Liitle Bit More About Me
+## 🇧🇷 Liitle Bit More About Me
 <p>🌱 I'm currently learning Express, Node.JS</p>
 <p>💬 Ask me about Paternity</p>
 <p>📫 How to reach me? x_sode@hotmail.com</p>
 <p>⚡ Fun Fact: I'm looking forward to running this year a full marathon</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresanpe&show_icons=true&theme=radical)
 
 ## 💻 Skills
 <p>
