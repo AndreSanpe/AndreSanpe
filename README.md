@@ -1,17 +1,6 @@
-# Hi there 👋
 <img width="100%" src="https://user-images.githubusercontent.com/59103410/187698790-65cc6ba9-1231-4fd3-9a17-6aec72e26cdf.png" alt="my banner">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresanpe&show_icons=true&theme=radical)
-
-I am a father, husband, runner and passionate about technology.
-
-I was Founding Partner and Executive Director of Plan4r Engenharia for over 7 years. We work with Geotechnology solutions in the area of aerial mapping using Unmanned Aerial Vehicles (UAV). Award recognized with the project “Volume Calculation with the Use of Drones in Bauxite Mining” at the MundoGEO#Connect Latin America 2016 event. More than 10 years of experience in conventional topography. Co-founder of the Mining Games Brasil team, responsible for taking students from the Federal University of Alfenas, Poços de Caldas campus, to three competitions abroad: United States (2014 and 2016) and Australia (2015).
-
-In 2021 I was invited to teach about application of Drones in Mining, in a Postgraduate course in Mining Engineering at the Federal University of Alfenas, Poços de Caldas-MG campus.
-
-In February 2022 I decided to make a career transition. Today, I am a Front-end developer and I continue studying Back-end at Trybe, to become a Full Stack developer in February 2023.
-
-During this period of learning, I had the opportunity to learn and apply several languages and tools, such as: Git, GitHub, JavaScript, HTML5, CSS3, Tailwind, React, React Hooks, Redux, RTL, Jest.
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning Express, Node.JS</p>
@@ -44,4 +33,15 @@ During this period of learning, I had the opportunity to learn and apply several
 ## 📊 Github Status
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresanpe">
+</p>
+<p align="center">
+  I am a father, husband, runner and passionate about technology.
+
+I was Founding Partner and Executive Director of Plan4r Engenharia for over 7 years. We work with Geotechnology solutions in the area of aerial mapping using Unmanned Aerial Vehicles (UAV). Award recognized with the project “Volume Calculation with the Use of Drones in Bauxite Mining” at the MundoGEO#Connect Latin America 2016 event. More than 10 years of experience in conventional topography. Co-founder of the Mining Games Brasil team, responsible for taking students from the Federal University of Alfenas, Poços de Caldas campus, to three competitions abroad: United States (2014 and 2016) and Australia (2015).
+
+In 2021 I was invited to teach about application of Drones in Mining, in a Postgraduate course in Mining Engineering at the Federal University of Alfenas, Poços de Caldas-MG campus.
+
+In February 2022 I decided to make a career transition. Today, I am a Front-end developer and I continue studying Back-end at Trybe, to become a Full Stack developer in February 2023.
+
+During this period of learning, I had the opportunity to learn and apply several languages and tools, such as: Git, GitHub, JavaScript, HTML5, CSS3, Tailwind, React, React Hooks, Redux, RTL, Jest.
 </p>
