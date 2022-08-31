@@ -10,6 +10,7 @@
 
 ## 💻 Skills
 <p>
+  I'm Mining engineer 
 </p>
 
 ## 👥 Connect With Me
