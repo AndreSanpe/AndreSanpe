@@ -45,20 +45,20 @@
 </p>
 
 ## 🌟 Github Badges
-<p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresanpe">
-</p>
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresanpe">
+</div>
 
 ## 🏆 GitHub Trophies
 
-<p>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=andresanpe">
-</p>
+</div>
 
 ## 📊 Github Status
-<p>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresanpe">
-</p>
+</div>
 
  #  🙃 More about me!
 <p style="text-align:center;">
