@@ -14,7 +14,7 @@
 </p>
 
 
-## 🇧🇷 Liitle Bit More About Me
+## 🇧🇷 Litle Bit More About Me
 <p>🌱 I'm currently learning Express, Node.JS</p>
 <p>💬 Ask me about Paternity</p>
 <p>📫 How to reach me? x_sode@hotmail.com</p>
