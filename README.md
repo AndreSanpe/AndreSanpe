@@ -46,7 +46,7 @@
 
 ## 🌟 Github Badges
 <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=andresanpe">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresanpe">
 </p>
 
 ## 🏆 GitHub Trophies
