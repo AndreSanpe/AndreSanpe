@@ -15,8 +15,7 @@
   <img align="center" alt="andre-mySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-![Snake animation](https://github.com/andresanpe/andresanpe/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/AndreSanpe/AndreSanpe/blob/output/github-contribution-grid-snake.svg)
 
 ## 🇧🇷 Litle Bit More About Me
 <p>🌱 I'm currently learning Express, Node.JS</p>
