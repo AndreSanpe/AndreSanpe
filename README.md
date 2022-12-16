@@ -17,7 +17,7 @@
 
   ![Snake animation](https://github.com/andresanpe/andresanpe/blob/output/github-contribution-grid-snake.svg)
 
-## 🇧🇷 Litle Bit More About Me
+## 🇧🇷 A little bit about myself
 <p>🌱 I'm currently learning Express, Node.JS</p>
 <p>💬 Ask me about Paternity</p>
 <p>📫 How to reach me? x_sode@hotmail.com</p>
